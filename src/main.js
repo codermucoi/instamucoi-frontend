@@ -6,6 +6,7 @@ import store from './store';
 
 Vue.config.productionTip = false;
 
+// eslint-disable-next-line vue/require-name-property
 new Vue({
   router,
   store,
